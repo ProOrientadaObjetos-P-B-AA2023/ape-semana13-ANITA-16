@@ -1,17 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package paquete006;
 
-/**
- *
- * @author reroes
- */
+package paquete006;
 public class DatosPropiedades {
-    /*
-    
-    */
+    public DatosPropiedades() {}
     public static double[][] datos(){
         double[][] informacion = {
             {120000, 10},
